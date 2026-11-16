@@ -1,0 +1,12 @@
+{
+  "name": "humanizer-vi",
+  "description": "Viết lại văn bản tiếng Việt nghe như AI để nó đọc như người viết, không đổi nội dung.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Namdevv"
+  },
+  "homepage": "https://github.com/Namdevv/humanize-vi",
+  "repository": "https://github.com/Namdevv/humanize-vi",
+  "license": "MIT",
+  "keywords": ["writing", "editing", "humanize", "prose", "style", "vietnamese"]
+}

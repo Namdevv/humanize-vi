@@ -1,0 +1,11 @@
+{
+  "name": "humanizer-vi",
+  "private": true,
+  "description": "Viết lại văn bản tiếng Việt nghe như AI để nó đọc như người viết, không đổi nội dung.",
+  "license": "MIT",
+  "repository": "github:Namdevv/humanize-vi",
+  "keywords": ["pi-package"],
+  "pi": {
+    "skills": ["./"]
+  }
+}

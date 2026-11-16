@@ -1,0 +1,4 @@
+interface:
+  display_name: "Humanizer tiếng Việt"
+  short_description: "Sửa văn tiếng Việt nghe như AI cho giống người viết"
+  default_prompt: "Dùng $humanizer-vi để viết lại đoạn văn này theo giọng của tôi, giữ nguyên các sự kiện."
